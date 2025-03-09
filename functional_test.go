@@ -5,6 +5,6 @@ import (
 	"runtime"
 )
 
-func testversio() {
+func testversion() {
 	fmt.Printf("Go version:%s\n", runtime.Version())
 }
